@@ -12,7 +12,8 @@ About the Project :-
 
 🎞 Screenshoot (1):- ![WhatsApp Image 2023-08-05 at 01 29 54](https://github.com/RaunakShrivastwa/StopWatch-Ninjas/assets/121729066/5d078ad0-83ce-4ee7-a55a-3957b92ee3a8)
 
- 🎞 Screenshoot (1):- ![image](https://github.com/RaunakShrivastwa/StopWatch-Ninjas/assets/121729066/a2bc65ae-1c01-4010-96eb-4b57ac10379d)
+ 🎞 Screenshoot (1):- ![WhatsApp Image 2023-08-05 at 01 36 08](https://github.com/RaunakShrivastwa/StopWatch-Ninjas/assets/121729066/672be135-b76f-437d-a9b3-311c905947f6)
+
 
  
 Deploy Link:-  https://ninjas-stopwatch.netlify.app/
